@@ -1,0 +1,1 @@
+print('The square root of given number is:',int(input("Enter any number: "))**0.5)
